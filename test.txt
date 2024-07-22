@@ -4,5 +4,6 @@ int mian(){
 
 cout<<"this is a test"<<endl;
 cout<<"this is clone"<<endl;
+cout<<"this is other's clone"<<endl;
 return 0;
 }
